@@ -31687,5 +31687,12 @@
     "author": "lzq",
     "description": "This plugin has not been manually reviewed by Obsidian staff. 增强版 HTML 查看器：嵌入预览、全屏、缩放、暗色同步、搜索、MHTML 支持、热刷新",
     "repo": "kuaile1407/html-viewer-plus"
+  },
+  {
+    "id": "team-collaboration",
+    "name": "Team Collaboration",
+    "author": "a27856704",
+    "description": "Team collaboration: shared vault docs, real-time co-editing, plugin sync, reports, and AI summaries. Requires your own backend server.",
+    "repo": "a27856704/obsidian-team-plugin"
   }
 ]
